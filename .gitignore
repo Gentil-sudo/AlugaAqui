@@ -1,0 +1,29 @@
+# Dependências e builds
+node_modules/
+dist/
+target/
+build/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# IDEs e editores
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.iml
+*.suo
+*.sw?
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
