@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;  
+    background-color: rgba(232, 217, 217, 0.042);
+    border: 1px solid black;
+}
+
+.modal-box {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 2px gray solid;
+    border-radius: 4px;
+    box-shadow: 2px 4px rgb(13, 13, 13);
+    padding: 5px;
+    gap: 6px;
+}
+
+.modal-cabec {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+    padding: 5px;
+}
+
+.modal-cabec-btn {
+    display: flex;
+    background: rgb(235, 47, 47);
+    align-items: center;
+    font-size: 24px;
+    border-radius: 6px;
+    box-shadow: 2px 2px rgb(13, 13, 13);
+    color: white;
+    
+    
+}
+

@@ -18,4 +18,11 @@
   --color-warning: #F59E0B;
   --color-danger: #DC2626;
   --color-info: #0EA5E9;
+
+  /* Tipografia */
+  --font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+* {
+  font-family: var(--font-family);
 }
