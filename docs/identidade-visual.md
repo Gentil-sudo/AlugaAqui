@@ -86,4 +86,4 @@ Copie para o `index.css` e use `var(--nome)` em todo o projeto:
 
 - **Fonte:** Inter (alternativa: Poppins ou system-ui).
 - **Títulos:** peso 700, cor Azul Escuro.
-- **Corpo:** peso 400, tamanho 16px, cor Cinza 900.
+- **Corpo:** peso 400, tamanho 16px, cor Cinza 900
